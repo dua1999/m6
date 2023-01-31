@@ -1,4 +1,4 @@
 {
-    "git.allowForcePush": true,
-    "git.showPushSuccessNotification": true
+	"git.allowForcePush": true,
+	"git.showPushSuccessNotification": true
 }
